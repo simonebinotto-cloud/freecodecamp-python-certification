@@ -35,10 +35,5 @@ The projects demonstrate proficiency in Object-Oriented Programming (OOP), inher
 * **Concepts used:** Input Validation, Dictionary manipulation, String formatting.
 * **Directory:** `/05-user-settings-manager`
 
----
-
-## 🚀 How to Run locally
-
-1. Clone the repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/freecodecamp-python-projects.git](https://github.com/YOUR_USERNAME/freecodecamp-python-projects.git)
